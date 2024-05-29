@@ -26,8 +26,8 @@ def main():
     total_studies_amt = 0
     passes_checks_amt = 0
     studies_that_pass = []
-    username = "davidfraterman"
-    password = "D228cw75@"
+    username = ""
+    password = ""
 
     token = generate_access_token(username, password)
 
